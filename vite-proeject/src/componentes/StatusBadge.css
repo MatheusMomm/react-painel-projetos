@@ -1,0 +1,9 @@
+.Concluido{
+    color: green;
+}
+.Andamento{
+    color: rgb(253, 194, 0);
+}
+.Pendente{
+    color: rgb(128, 0, 0);
+}
